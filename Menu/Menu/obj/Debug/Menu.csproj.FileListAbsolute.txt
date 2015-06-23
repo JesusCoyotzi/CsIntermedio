@@ -1,0 +1,9 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\obj\Debug\Menu.editor.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
