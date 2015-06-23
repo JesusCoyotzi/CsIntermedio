@@ -1,0 +1,9 @@
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\obj\Debug\Converter.Conversor.resources
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Converter\Converter\obj\Debug\Converter.pdb

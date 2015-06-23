@@ -1,0 +1,9 @@
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\bin\Debug\Hithere.exe.config
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\bin\Debug\Hithere.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\bin\Debug\Hithere.pdb
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\obj\Debug\Hithere.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\obj\Debug\Hithere.Form1.resources
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\obj\Debug\Hithere.Properties.Resources.resources
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\obj\Debug\Hithere.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\obj\Debug\Hithere.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Hithere\Hithere\obj\Debug\Hithere.pdb

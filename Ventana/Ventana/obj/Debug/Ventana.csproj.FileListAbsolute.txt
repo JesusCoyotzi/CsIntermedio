@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Ventana\Ventana\bin\Debug\Ventana.exe.config
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Ventana\Ventana\obj\Debug\Ventana.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Ventana\Ventana\bin\Debug\Ventana.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Ventana\Ventana\bin\Debug\Ventana.pdb
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Ventana\Ventana\obj\Debug\Ventana.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\Ventana\Ventana\obj\Debug\Ventana.pdb

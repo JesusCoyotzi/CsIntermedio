@@ -1,0 +1,6 @@
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\CodeWindow\CodeWindow\bin\Debug\CodeWindow.exe.config
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\CodeWindow\CodeWindow\obj\Debug\CodeWindow.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\CodeWindow\CodeWindow\bin\Debug\CodeWindow.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\CodeWindow\CodeWindow\bin\Debug\CodeWindow.pdb
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\CodeWindow\CodeWindow\obj\Debug\CodeWindow.exe
+C:\Users\Jesus\Documents\Mecatronica\Cursos\C#\CodeWindow\CodeWindow\obj\Debug\CodeWindow.pdb
