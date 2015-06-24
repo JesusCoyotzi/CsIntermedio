@@ -1,0 +1,10 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\bin\Debug\Dial.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\bin\Debug\Dial.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\bin\Debug\Dial.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\obj\Debug\Dial.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\obj\Debug\Dial.formOwner.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\obj\Debug\Dial.FormHijo.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\obj\Debug\Dial.Properties.Resources.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\obj\Debug\Dial.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\obj\Debug\Dial.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\Dial\Dial\obj\Debug\Dial.pdb

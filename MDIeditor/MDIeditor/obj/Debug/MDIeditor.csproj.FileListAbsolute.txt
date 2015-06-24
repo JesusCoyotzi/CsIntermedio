@@ -1,0 +1,10 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\bin\Debug\MDIeditor.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\bin\Debug\MDIeditor.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\bin\Debug\MDIeditor.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\obj\Debug\MDIeditor.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\obj\Debug\MDIeditor.padre.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\obj\Debug\MDIeditor.hijocs.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\obj\Debug\MDIeditor.Properties.Resources.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\obj\Debug\MDIeditor.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\obj\Debug\MDIeditor.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\MDIeditor\MDIeditor\obj\Debug\MDIeditor.pdb
