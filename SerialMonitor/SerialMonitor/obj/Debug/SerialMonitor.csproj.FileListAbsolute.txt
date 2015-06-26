@@ -1,0 +1,9 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\bin\Debug\SerialMonitor.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\bin\Debug\SerialMonitor.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\bin\Debug\SerialMonitor.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.Form1.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.Properties.Resources.resources
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\SerialMonitor\SerialMonitor\obj\Debug\SerialMonitor.pdb

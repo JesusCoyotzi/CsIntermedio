@@ -1,0 +1,12 @@
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\bin\Release\MonitorSerial.exe.config
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\bin\Release\MonitorSerial.exe
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\bin\Release\MonitorSerial.pdb
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Release\MonitorSerial.Form1.resources
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Release\MonitorSerial.Properties.Resources.resources
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Release\MonitorSerial.csproj.GenerateResource.Cache
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Release\MonitorSerial.exe
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Release\MonitorSerial.pdb
+C:\Users\Jesus\Documents\Visual Studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Release\MonitorSerial.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Documents\Mecatronica\cursos\MonitorSerial\MonitorSerial\bin\Release\MonitorSerial.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\MonitorSerial\MonitorSerial\obj\Release\MonitorSerial.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\MonitorSerial\MonitorSerial\obj\Release\MonitorSerial.pdb

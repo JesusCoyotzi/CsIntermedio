@@ -1,0 +1,5 @@
+C:\Users\Jesus\Documents\Mecatronica\cursos\CSerial\CSerial\bin\Debug\CSerial.exe.config
+C:\Users\Jesus\Documents\Mecatronica\cursos\CSerial\CSerial\bin\Debug\CSerial.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\CSerial\CSerial\bin\Debug\CSerial.pdb
+C:\Users\Jesus\Documents\Mecatronica\cursos\CSerial\CSerial\obj\Debug\CSerial.exe
+C:\Users\Jesus\Documents\Mecatronica\cursos\CSerial\CSerial\obj\Debug\CSerial.pdb

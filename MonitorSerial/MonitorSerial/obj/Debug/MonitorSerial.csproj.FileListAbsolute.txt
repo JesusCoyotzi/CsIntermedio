@@ -1,0 +1,9 @@
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\bin\Debug\MonitorSerial.exe.config
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\bin\Debug\MonitorSerial.exe
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\bin\Debug\MonitorSerial.pdb
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Debug\MonitorSerial.csprojResolveAssemblyReference.cache
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Debug\MonitorSerial.Form1.resources
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Debug\MonitorSerial.Properties.Resources.resources
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Debug\MonitorSerial.csproj.GenerateResource.Cache
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Debug\MonitorSerial.exe
+c:\users\jesus\documents\visual studio 2013\Projects\MonitorSerial\MonitorSerial\obj\Debug\MonitorSerial.pdb
